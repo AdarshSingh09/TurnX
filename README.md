@@ -1,5 +1,9 @@
 # 🎙️ TurnX: A High-Performance Turn Detector Model
-![A beautiful mountain landscape at sunrise](https://cdn-uploads.huggingface.co/production/uploads/61c141342aac764ce1654e43/3ntM63zkmxY2cNRhgY_Kl.png)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Model-TurnX-yellow.svg)](https://huggingface.co/adarsh09singh/eng-eou-onnx-SmolLM2-135M_V1)
 
 **TurnX** is a highly efficient, open-source turn detector model fine-tuned for real-time voice AI applications. It specializes in end-of-utterance (EOU) detection and is built upon the lightweight **`HuggingFaceTB/SmolLM2-135M-Instruct`** architecture. The model is trained to determine when a user has finished speaking, enabling conversational AI agents to respond more naturally and quickly.
 
